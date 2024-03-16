@@ -1,0 +1,1 @@
+[![hello-world](https://github.com/Dmitry597/hexlet_pytest/actions/workflows/fix%20pyci.yml/badge.svg)](https://github.com/Dmitry597/hexlet_pytest/actions/workflows/fix%20pyci.yml)
